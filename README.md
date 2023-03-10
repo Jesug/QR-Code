@@ -37,8 +37,8 @@ In this challenge, I implemented what have known
 
 ### Author
 
-- Frontend Mentor - [@Jesug](https://www.frontendmentor.io/profile/Jesug)
-- Twitter - [@OmoniyiJesugbe1](https://twitter.com/OmoniyiJesugbe1)
+- Frontend Mentor - [@Jesug][https://www.frontendmentor.io/profile/Jesug]
+- Twitter - [@OmoniyiJesugbe1][https://twitter.com/OmoniyiJesugbe1]
 
 
 
